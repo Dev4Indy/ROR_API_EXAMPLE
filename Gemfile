@@ -17,6 +17,7 @@ gem 'puma', '~> 3.7'
 gem 'rack-cors'
 gem 'rack-attack'
 
+gem 'devise'
 
 group :development do
   gem 'listen', '>= 3.0.5', '< 3.2'
